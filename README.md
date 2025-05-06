@@ -1,0 +1,1 @@
+Old (and bad) script made for the Roblox game 'Cruisader's Haven', designed to be run by external script execution software. Source is outdated and likely does not work anymore, due to being made ~4 years ago.
